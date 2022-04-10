@@ -157,6 +157,6 @@ if __name__ == "__main__":
         for keys, values in dic.items():
             df_alquiler_barcelona =  df_alquiler_barcelona.append(values, ignore_index = True)
             
-    df_alquiler_barcelona.to_csv('bcn_alquiler_idealista_barcelona', index=False)
+    df_alquiler_barcelona.to_csv('alquiler_idealista_barcelona', index=False)
     
         
