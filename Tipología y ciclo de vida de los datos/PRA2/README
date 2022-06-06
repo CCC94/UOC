@@ -1,0 +1,8 @@
+Componentes del grupo: 
+	Carlos Chamorro Cadarso
+
+Descripcion de los ficheros:
+	archive: Carpeta con los  datasets originales obtenidos de Kaggle.
+	final_DF: Dataframe final a  analizar
+	PRA2_cchamorroca.ipynb: Jupyter notebook con el codigo creado para el analisis
+	PRA2_cchamorroca.pdf: analisis exportado en pdf
