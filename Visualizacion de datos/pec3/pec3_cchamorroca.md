@@ -41,20 +41,8 @@ Resultará interesante saber cuáles son los municipios con más incendios. En N
 
 No obstante, al comparar la superficie quemada vemos que el impacto de los incendios de tafalla, Sumbilla y Petilla de Aragón han tenido un gran impacto.
 
-Por último, observamos en forma de gif e historial de incendios sobre el mapa.
-
-
-```python
-from IPython.display import Video
-
-Video("incendios.mp4")
-```
+Por último, observamos en forma de gif el historial de incendios sobre el mapa.
 
 
 
-
-<video src="incendios.mp4" controls  >
-      Your browser does not support the <code>video</code> element.
-    </video>
-
-
+![Alt Text](incendios.gif)
