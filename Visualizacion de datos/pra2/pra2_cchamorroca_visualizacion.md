@@ -47,21 +47,7 @@ Vemos que, en efecto, los servicios de alta velocidad representan menos de una q
 
 Observamos a continucación los movimientos de los trenes a través del tiempo durante la semana de navidad
 
-
-```python
-from IPython.display import Video
-
-Video("alta_velocidad.mp4")
-```
-
-
-
-
-<video src="alta_velocidad.mp4" controls  >
-      Your browser does not support the <code>video</code> element.
-    </video>
-
-
+![My Image](alta_velocidad.gif)
 
 ### Otros servicios
 
@@ -71,18 +57,6 @@ Los servicios de media y larga distnacia que no usan infrestructura de alta velo
 
 Aquí podemos ver, además, como se distribuyen dichos servicios en la península.
 
-
-```python
-Video("otros_servicios.mp4")
-```
-
-
-
-
-<video src="otros_servicios.mp4" controls  >
-      Your browser does not support the <code>video</code> element.
-    </video>
-
-
+![My Image](otros_servicios.gif)
 
 En este clip podemos apreciar la complejidad del sistema durante la semana de navidad del 2022.
