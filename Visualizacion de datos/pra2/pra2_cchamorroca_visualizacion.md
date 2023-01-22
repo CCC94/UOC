@@ -37,13 +37,13 @@ Vemos que la infraestructura de alta velocidad es más simple que el conjunto de
 
 Para comprender mejor la complejidad de los servicios ferroviarios, estudiaremos por separado los servicios de alta velocidad de los demás.
 
-### Alta velocidad
-
-![My Image](alta_velocidad.png)
-
 ![My Image](output_31_0.png)
 
 Vemos que, en efecto, los servicios de alta velocidad representan menos de una quinta parte de los servicios otorgados por Renfe.
+
+### Alta velocidad
+
+![My Image](alta_velocidad.png)
 
 Observamos a continucación los movimientos de los trenes a través del tiempo durante la semana de navidad
 
